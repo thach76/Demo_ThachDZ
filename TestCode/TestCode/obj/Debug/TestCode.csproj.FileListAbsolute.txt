@@ -1,0 +1,8 @@
+E:\Code\An_toan_thong_tin\TestCode\TestCode\bin\Debug\TestCode.exe.config
+E:\Code\An_toan_thong_tin\TestCode\TestCode\bin\Debug\TestCode.exe
+E:\Code\An_toan_thong_tin\TestCode\TestCode\bin\Debug\TestCode.pdb
+E:\Code\An_toan_thong_tin\TestCode\TestCode\obj\Debug\TestCode.csproj.AssemblyReference.cache
+E:\Code\An_toan_thong_tin\TestCode\TestCode\obj\Debug\TestCode.csproj.SuggestedBindingRedirects.cache
+E:\Code\An_toan_thong_tin\TestCode\TestCode\obj\Debug\TestCode.csproj.CoreCompileInputs.cache
+E:\Code\An_toan_thong_tin\TestCode\TestCode\obj\Debug\TestCode.exe
+E:\Code\An_toan_thong_tin\TestCode\TestCode\obj\Debug\TestCode.pdb

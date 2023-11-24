@@ -1,0 +1,25 @@
+Tiền xử lý (Pre-processing):
+
+-Thêm bit '1' vào cuối chuỗi dữ liệu.
+-Thêm các bit '0' để đảm bảo kích thước của chuỗi dữ liệu mới là bội số của 512.
+-Thêm thông tin độ dài của chuỗi dữ liệu gốc (bit length) ở cuối chuỗi.
+-Chia dữ liệu thành các khối 512-bit:
+
+Chuỗi dữ liệu mới sau tiền xử lý được chia thành các khối dữ liệu có độ dài 512 bit (64 byte).
+Xử lý từng khối theo thuật toán SHA-256:
+
+Mỗi khối dữ liệu 512-bit được chia thành 16 từ 32-bit (32 words).
+Đối với các từ còn lại (từ 17 đến 63), chúng được tính toán từ các từ trước đó sử dụng các hàm logic (ví dụ: CH, MAJ, EP0, EP1, SIG0, SIG1) và hằng số định sẵn.
+64 từ tạo thành một bản tin (message schedule) được sử dụng trong quá trình nén.
+Nén (Compression):
+
+Khối dữ liệu và bản tin được sử dụng để thực hiện quá trình nén bằng cách áp dụng các phép biến đổi và hàm logic đặc biệt.
+Cập nhật giá trị băm (Hash values):
+
+Kết quả từ quá trình nén sẽ được cộng vào giá trị băm hiện tại (hash values).
+Lặp lại cho tất cả các khối:
+
+Quá trình trên được lặp lại cho tất cả các khối dữ liệu cho đến khi đã xử lý hết tất cả các khối.
+Sau xử lý (Post-processing):
+
+Kết quả cuối cùng sau khi xử lý tất cả các khối sẽ tạo ra mã băm SHA-256.

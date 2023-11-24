@@ -1,0 +1,8 @@
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\bin\Debug\TraoDoiKhoa.exe.config
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\bin\Debug\TraoDoiKhoa.exe
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\bin\Debug\TraoDoiKhoa.pdb
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\obj\Debug\TraoDoiKhoa.csproj.AssemblyReference.cache
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\obj\Debug\TraoDoiKhoa.csproj.SuggestedBindingRedirects.cache
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\obj\Debug\TraoDoiKhoa.csproj.CoreCompileInputs.cache
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\obj\Debug\TraoDoiKhoa.exe
+E:\Code\An_toan_thong_tin\TraoDoiKhoa\TraoDoiKhoa\obj\Debug\TraoDoiKhoa.pdb

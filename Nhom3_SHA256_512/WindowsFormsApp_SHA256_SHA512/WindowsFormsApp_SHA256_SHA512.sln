@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp_SHA256_SHA512", "WindowsFormsApp_SHA256_SHA512\WindowsFormsApp_SHA256_SHA512.csproj", "{7D7111BC-54BB-445A-832C-062C931CC16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7D7111BC-54BB-445A-832C-062C931CC16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D7111BC-54BB-445A-832C-062C931CC16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D7111BC-54BB-445A-832C-062C931CC16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D7111BC-54BB-445A-832C-062C931CC16B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D4C509-C8F0-4F39-A22B-3D3186A943F7}
+	EndGlobalSection
+EndGlobal
