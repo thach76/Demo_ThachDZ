@@ -1,0 +1,8 @@
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\bin\Debug\MaHoaGSA.exe.config
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\bin\Debug\MaHoaGSA.exe
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\bin\Debug\MaHoaGSA.pdb
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\obj\Debug\MaHoaRSA.csproj.AssemblyReference.cache
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\obj\Debug\MaHoaRSA.csproj.SuggestedBindingRedirects.cache
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\obj\Debug\MaHoaRSA.csproj.CoreCompileInputs.cache
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\obj\Debug\MaHoaGSA.exe
+E:\Code\An_toan_thong_tin\MaHoaGSA\MaHoaGSA\obj\Debug\MaHoaGSA.pdb
